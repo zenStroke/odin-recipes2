@@ -1,0 +1,34 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.15rem;
+  background-color: beige;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+ul,
+ol,
+li{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 0.75rem;
+  text-align: center;
+}
+
+#step-list li {
+  margin-left: 2rem;
+  list-style: decimal;
+  text-align: start;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
